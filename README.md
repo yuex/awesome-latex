@@ -53,9 +53,10 @@ get the chance to do it in the traditional way, i.e., manually. Checkout the
 
 Note the fun part is that if the package you are installing depends on other
 CTAN packages, you have to resolve the dependencies yourself manually. So
-please keep calm, carry on, and have fun. Or what else can you do?
+please keep calm, carry on, and try hard to have some fun. Or what else you can
+do?
 
-Awesome, right?
+Awesome, right? If you don't feel so, then try harder.
 
 BTW, if you want to give it a shot, try compile `assignment.tex`.
 
