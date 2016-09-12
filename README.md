@@ -1,13 +1,14 @@
-# Awesome LATEX
+# Awesome LaTeX
 
-Well, it's complicated, sort of. To appreciate the awesomeness of LATEX, you
-need to put aside a few hours to fiddle with not only another gigantic tool and
-a not-so-easy-to-learn syntax but also another no-so-well-managed software
-distribution system.
+Well, it's complicated, sort of.
+
+To appreciate the awesomeness of LaTeX, you need to put aside a few hours to
+fiddle with not only another gigantic tool and a not-so-easy-to-learn syntax
+but also another no-so-well-managed software distribution system.
 
 To save your time, you can just install `texlive` and use `homework.tex`. It's a
 popular homework template at CMU introduced by the help page of [15251][]. When
-you are done with your homework with the template, just run
+you are done with your homework using the template, just run
 
     pdflatex homework.tex
 
@@ -15,14 +16,16 @@ you are done with your homework with the template, just run
 If everything goes well, a pdf file will be generated.
 
 Alright, if you have some time or you find a cooler template on the Internet
-which requires additional latex packages, then be prepared to get some
-frustrations. Here's the steps to make it work.
+which requires additional LaTeX packages, then be prepared to get some
+frustrations. Here's the steps to make it work, probably.
 
 First, install texlive using the package manager you hate or love or whatever
-provided by your distribution or 3rd party or some guys you have no idea of.
+provided by your distribution or 3rd party or some guys you have no idea of but
+you have to use.
 
     # gentoo example
-    # set aside half an hour at least, it will take some time
+    # set aside half an hour at least, it will take some time to compile
+    # if you want cjk support, turn the flag on manually (disabled by default)
     emerge -av textlive
 
 Second, try to compile the tex file and find out which package is missing
