@@ -54,10 +54,9 @@ please keep calm, carry on, and have fun. Or what else can you do?
 
 Awesome, right?
 
-BTW, if you want to give it a shot, try compile `assignment.tex`
+BTW, if you want to give it a shot, try compile `assignment.tex`.
 
 -EOF-
-
 
 [15251]: http://www.cs.cmu.edu/afs/cs/academic/class/15251/Site/current/Help/late
 [wikibook]: https://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages
